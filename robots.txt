@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# ⚠️ À METTRE À JOUR quand le vrai domaine sera choisi.
+# Cette URL doit correspondre à `site` dans astro.config.mjs.
+Sitemap: https://patapain18.github.io/sitemap-index.xml

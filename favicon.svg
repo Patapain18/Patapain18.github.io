@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Monogramme M. Le fond suit le thème du navigateur ;
+       la lettre reste en shu-iro (朱色) dans les deux cas. -->
+  <rect width="64" height="64" rx="13" fill="#0a0a0b"/>
+  <path d="M15 46V18h6.4l10.6 17.2L42.6 18H49v28h-6.2V30.4L33.6 45h-3.2L21.2 30.4V46z"
+        fill="#e34234"/>
+</svg>
